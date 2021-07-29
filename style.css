@@ -1,0 +1,79 @@
+.main-wrapper {
+  background-color: #292b32;
+  padding: 147px 421px 146px 421px;
+  width: 1440px;
+  height: 1024px;
+}
+
+.form-wrapper {
+    background-color: #1a1b20;
+    width: 598px;
+    height: 621px;
+    border-radius: 32px;
+    padding: 113px 91px 130px 92px;
+  }
+
+  #form-header {
+    width: 247px;
+    height: 44px;
+    margin: 0 168px 32px 0;
+    font-family: Avenir;
+    font-size: 32px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+  }
+
+  .form-inputs {
+    /*width: 415px;*/
+    height: 60px;
+    margin: 0 0 16px;
+    padding: 10px 300px 10px 24px;
+    border-radius: 16px;
+    background-color: #292b32;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: start;
+    color: #ffffff;
+  }
+
+  ::placeholder {
+    /*width: 100px;
+    height: 23px;*/
+    font-family: Gilroy;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: start;
+    color: #ffffff;
+  }
+  
+  input[type=submit] {
+  width: 415px;
+  height: 60px;
+  margin: 64px 0 0;
+  padding: 18px 172px 18px 173px;
+  border-radius: 16px;
+  background-color: #3d4dff;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  }
